@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/](https://zenitcomreal34.wixsite.com/daniil-portfolio" target="_blank">Daniel</a> 
+<h1 align="center">Hi there, I'm <a href="https://zenitcomreal34.wixsite.com/daniil-portfolio" target="_blank">Daniel</a> 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=data+engineer+and+backend+developer)](https://git.io/typing-svg)
 
