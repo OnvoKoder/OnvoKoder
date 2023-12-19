@@ -8,11 +8,12 @@
  - C# (MAUI, WPF, ASP.NET Core, Unit Test)
  - NoSQL(MongoDB, Redis)
  - Go (Gin)
- - Java (Spring, JUnit)
+ - Java (Spring, JUnit, Spark)
+ - Python (Airflow, Spark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnvoKoder&theme=vision-friendly-dark)](https://github.com/OnvoKoder/github-readme-stats)
 
-## :writing_hand: Leetcode :link: https://leetcode.com/DaniilMikhailov
+![Leetcode Stats](https://leetcard.jacoblin.cool/DaniilMikhailov)
 
 ## :100: My achievements
 - I wrote SCADA Engine and SCADA System in C# and my last company made extra money as a result.
