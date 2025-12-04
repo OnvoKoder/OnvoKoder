@@ -8,7 +8,7 @@
  - Hadoop (Hive, HDFS), Apache Iceberg
  - C# (MAUI/WPF, ASP.NET Core, Unit Test)
  - NoSQL (MongoDB, Redis, ElasticSearch)
- - Go (Go Core)
+ - Go (Go Core, Gin)
  - Java (Java Core)
  - Python (Python Core, PySpark)
 
