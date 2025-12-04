@@ -12,8 +12,6 @@
  - Java (Java Core)
  - Python (Python Core, PySpark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnvoKoder&theme=vision-friendly-dark)](https://github.com/OnvoKoder/github-readme-stats)
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/DaniilMikhailov)
 
 ## :100: My achievements
